@@ -1,5 +1,5 @@
 [package]
-name = "ddos"
+name = "ddos-rs"
 version = "0.1.0"
 authors = ["constantin"]
 edition = "2018"
